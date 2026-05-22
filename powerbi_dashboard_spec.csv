@@ -1,0 +1,7 @@
+Report,Page,Core KPIs,Exact Visuals,Audience
+CFO Executive Financial Intelligence,Executive Overview,"GWP MTD, EP YTD, Combined Ratio, Underwriting Margin","Waterfall, line, matrix heatmap, decomposition tree, KPI cards",CFO / Finance Controller
+Chief Actuary Reserve and Claims,Reserve Overview,"Case Reserve, IBNR, Paid-to-Incurred Ratio, Severity, Frequency","Triangle matrix, stacked bar, scatter, small multiples, KPI cards",Chief Actuary / Reserving
+Statutory and Audit Readiness,Control Summary,"Sources Expected, Sources Received, Reconciliations Passed, Exceptions","Status matrix, bar, timeline, evidence table, KPI cards",Statutory / Audit
+Finance Ops and Close Control,ETL Health,"Jobs Completed, Jobs Failed, SSAS Processing, Refresh Success","Funnel, bar, queue table, trend line, KPI cards",Finance Ops / QA
+Underwriting and Portfolio Performance,Portfolio Overview,"Written Premium, Policy Count, Loss Ratio, Margin","Ranking bar, trend lines, channel mix, matrix, KPI cards",Insurance Ops / Product Heads
+Commission and Distribution Analytics,Commission Overview,"Commission Paid, Commission Ratio, Broker Commission","Waterfall, scatter, bar, adjustment table, KPI cards",Distribution Finance / Sales Ops
